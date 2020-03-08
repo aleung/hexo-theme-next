@@ -207,6 +207,10 @@
       {%- endif %}
     </div>
 
+    {% if theme.recommended_posts.enable and not is_index %}
+      {% include '../_partials/post/recommended_posts.swig' with {post: post, site: site} %}
+    {% endif %}
+
     {#####################}
     {### END POST BODY ###}
     {#####################}

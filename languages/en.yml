@@ -32,6 +32,7 @@ post:
   sticky: Sticky
   views: Views
   related_posts: Related Posts
+  recommended_posts: Recommended Posts
   copyright:
     author: Post author
     link: Post link

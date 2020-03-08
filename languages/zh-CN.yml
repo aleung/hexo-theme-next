@@ -30,6 +30,7 @@ post:
   sticky: 置顶
   views: 阅读次数
   related_posts: 相关文章
+  recommended_posts: 推荐文章
   copyright:
     author: 本文作者
     link: 本文链接
